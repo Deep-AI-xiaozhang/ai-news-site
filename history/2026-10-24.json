@@ -27,29 +27,29 @@
   },
   {
     "id": "2026-10-24-03",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "brief": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and…",
-    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "category": "📝社区讨论",
-    "section": "💡 产品应用",
-    "reason": "行业动态，速览即可",
-    "priority": "important",
-    "heat": 0.0,
-    "sourceName": "OpenAI Official",
-    "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-  },
-  {
-    "id": "2026-10-24-04",
     "title": "Termexo v0.10.15 发布：工作区树、账号登录方式与模型升级建议",
     "brief": "Termexo v0.10.15 已发布。它是 MIT 开源的 Windows 本地多 Agent 工作台，用于组织项目、真实终端和原生会话。本稿由项目维护者提…",
     "summary": "Termexo v0.10.15 已发布。它是 MIT 开源的 Windows 本地多 Agent 工作台，用于组织项目、真实终端和原生会话。本稿由项目维护者提交，使用 AI 辅助整理。 图为 AI 辅助绘制的功能示意，不是软件界面截图。 树状整理项目 本版加入多级文件夹，可通过拖动调整项目和文件夹顺序。工作区支持标签、图标和侧栏搜索，菜单中可...",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
-    "priority": "normal",
+    "priority": "important",
     "heat": 0.0,
     "sourceName": "开源中国OSCHINA",
     "sourceUrl": "https://oschina.net/news/503172"
+  },
+  {
+    "id": "2026-10-24-04",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "brief": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and…",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "category": "📝社区讨论",
+    "section": "💡 产品应用",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "OpenAI Official",
+    "sourceUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
   },
   {
     "id": "2026-10-24-05",
@@ -79,16 +79,16 @@
   },
   {
     "id": "2026-10-24-07",
-    "title": "Spring AI Alibaba已停更了，Java还有希望吗？",
-    "brief": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现…",
-    "summary": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现上一个正式版还是v1.1.2.2，发布于（作者：苏三说技术）",
-    "category": "🔥新模型发布",
-    "section": "🏢 官方发布",
-    "reason": "官方一手消息，可信度较高",
+    "title": "腾讯又来一王炸，开源版 WorkBuddy 太夯了！",
+    "brief": "WorkBuddy 太火了，我就这么说吧，如果说最近这段时间国外 Coding Agent 讨论最多的是 Claude 的话，那么国内讨论度最高的，那就得是 W…",
+    "summary": "WorkBuddy 太火了，我就这么说吧，如果说最近这段时间国外 Coding Agent 讨论最多的是 Claude 的话，那么国内讨论度最高的，那就得是 WorkBuddy 了。 火到什么程度，我（作者：cxuanAI）",
+    "category": "💻开源项目更新",
+    "section": "🚀 开源生态",
+    "reason": "开源生态动态，可上手/跟进",
     "priority": "normal",
     "heat": 0.0,
     "sourceName": "掘金热榜",
-    "sourceUrl": "https://juejin.cn/post/7693821701955567670"
+    "sourceUrl": "https://juejin.cn/post/7694844501786050596"
   },
   {
     "id": "2026-10-24-08",
@@ -183,16 +183,16 @@
   },
   {
     "id": "2026-10-24-15",
-    "title": "🚀 2026 年 9 月 GitHub 十大热门项目排行榜 🔥",
-    "brief": "欢迎来到 2026 年 9 月 GitHub 热门开源项目排行榜！它们共同指向：Agent 正在从「会写很多代码」走向更克制、更可治理、更能操作真实世界与组织协…",
-    "summary": "欢迎来到 2026 年 9 月 GitHub 热门开源项目排行榜！它们共同指向：Agent 正在从「会写很多代码」走向更克制、更可治理、更能操作真实世界与组织协作。（作者：一点一木）",
-    "category": "💻开源项目更新",
-    "section": "🚀 开源生态",
-    "reason": "开源生态动态，可上手/跟进",
+    "title": "Spring AI Alibaba已停更了，Java还有希望吗？",
+    "brief": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现…",
+    "summary": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现上一个正式版还是v1.1.2.2，发布于（作者：苏三说技术）",
+    "category": "🔥新模型发布",
+    "section": "🏢 官方发布",
+    "reason": "官方一手消息，可信度较高",
     "priority": "normal",
     "heat": 0.0,
     "sourceName": "掘金热榜",
-    "sourceUrl": "https://juejin.cn/post/7693828979246186546"
+    "sourceUrl": "https://juejin.cn/post/7693821701955567670"
   },
   {
     "id": "2026-10-24-16",
