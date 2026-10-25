@@ -1,6 +1,6 @@
 [
   {
-    "dailyBrief": "今日最值得关注：Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效 | Argus – a free, open-source agentic security operations plat | Forced to pick, Grok’s AI model chooses Republicans. OpenAI’"
+    "dailyBrief": "今日最值得关注：Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效 | Forced to pick, Grok’s AI model chooses Republicans. OpenAI’ | Spring AI Alibaba已停更了，Java还有希望吗？"
   },
   {
     "id": "2026-10-25-01",
@@ -17,19 +17,6 @@
   },
   {
     "id": "2026-10-25-02",
-    "title": "Argus – a free, open-source agentic security operations platform – MIT",
-    "brief": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinato…",
-    "summary": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points: 23 # Comments: 7",
-    "category": "💰降价/调价",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
-    "priority": "important",
-    "heat": 0.0,
-    "sourceName": "Hacker News社区",
-    "sourceUrl": "https://thomasunise.com/argus"
-  },
-  {
-    "id": "2026-10-25-03",
     "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
     "brief": "A new study found Grok's AI overwhelmingly recommends Republican candidates whil…",
     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
@@ -42,20 +29,20 @@
     "sourceUrl": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"
   },
   {
-    "id": "2026-10-25-04",
+    "id": "2026-10-25-03",
     "title": "Spring AI Alibaba已停更了，Java还有希望吗？",
     "brief": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现…",
     "summary": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现上一个正式版还是v1.1.2.2，发布于（作者：苏三说技术）",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
-    "priority": "normal",
+    "priority": "important",
     "heat": 0.0,
     "sourceName": "掘金热榜",
     "sourceUrl": "https://juejin.cn/post/7693821701955567670"
   },
   {
-    "id": "2026-10-25-05",
+    "id": "2026-10-25-04",
     "title": "When Does Mixing Models Pay? Open Fusion, a Bounded Mixture-of-Agents Runtime, and Registered Evidence from Local Coding Benchmarks",
     "brief": "Journal of Artificial Intelligence & Cloud Computing",
     "summary": "Journal of Artificial Intelligence & Cloud Computing",
@@ -68,7 +55,7 @@
     "sourceUrl": "https://openalex.org/W7223263478"
   },
   {
-    "id": "2026-10-25-06",
+    "id": "2026-10-25-05",
     "title": "RLAgent: retrieval-augmented LLM agents for code-free RNA region-ligand interaction modeling.",
     "brief": "Health information science and systems",
     "summary": "Health information science and systems",
@@ -81,7 +68,7 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908869"
   },
   {
-    "id": "2026-10-25-07",
+    "id": "2026-10-25-06",
     "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
     "brief": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的…",
     "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。 · https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
@@ -94,7 +81,7 @@
     "sourceUrl": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c"
   },
   {
-    "id": "2026-10-25-08",
+    "id": "2026-10-25-07",
     "title": "Here are the top AI agents that can live in your text messages",
     "brief": "We created a list of the most notable AI agents that can live in your text messa…",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -107,20 +94,7 @@
     "sourceUrl": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages"
   },
   {
-    "id": "2026-10-25-09",
-    "title": "一键还原任意网站，这套 Playwright + 多 Agent 工程流太猛了",
-    "brief": "一 前言 哈喽，大家好，我是 alien，今天我们来讲一个能够将精美网站一键复制的功能——ai-website-cloner-template 的使用和实现原理…",
-    "summary": "一 前言 哈喽，大家好，我是 alien，今天我们来讲一个能够将精美网站一键复制的功能——ai-website-cloner-template 的使用和实现原理。 通过本篇文档你能收获到哪些内容？ A（作者：我不是外星人）",
-    "category": "📝社区讨论",
-    "section": "💡 产品应用",
-    "reason": "行业动态，速览即可",
-    "priority": "normal",
-    "heat": 0.0,
-    "sourceName": "掘金热榜",
-    "sourceUrl": "https://juejin.cn/post/7661439504077176847"
-  },
-  {
-    "id": "2026-10-25-10",
+    "id": "2026-10-25-08",
     "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
     "brief": "The Sociolinguistics of Machine Identity: LLM Personality an…",
     "summary": "The Sociolinguistics of Machine Identity: LLM Personality an…",
@@ -133,7 +107,7 @@
     "sourceUrl": "https://openalex.org/W7164183113"
   },
   {
-    "id": "2026-10-25-11",
+    "id": "2026-10-25-09",
     "title": "Causality-aware LLM-agent framework for document-level news event extraction with heterogeneous arguments.",
     "brief": "Neural networks : the official journal of the International Neural Network Socie…",
     "summary": "Neural networks : the official journal of the International Neural Network Society",
