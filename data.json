@@ -1,48 +1,100 @@
 [
   {
-    "dailyBrief": "今日最值得关注：韩 KRAFTON AI 预览 Raon-1 mini 模型：30B-A4B，可与 Meta Muse Glimmer 竞争 | Grok releases the first seven minutes of its AI-generated ‘O | OpenAI and Anthropic cut their LLM prices by up to 80% withi"
+    "dailyBrief": "今日最值得关注：Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行 | Greptile takes bug detection beyond code review with GPT-6 A | Kimi K3.1 Pro 发布：代码超 GPT-6 Astra、开放权重版主动移除网络攻防能力"
   },
   {
-    "id": "2026-10-26-01",
-    "title": "韩 KRAFTON AI 预览 Raon-1 mini 模型：30B-A4B，可与 Meta Muse Glimmer 竞争",
-    "brief": "IT之家 10 月 25 日消息，韩国知名游戏企业 KRAFTON（魁匠团）旗下人工智能分支 KRAFTON AI 本周公布了其从头训练的 Raon-1 min…",
-    "summary": "IT之家 10 月 25 日消息，韩国知名游戏企业 KRAFTON（魁匠团）旗下人工智能分支 KRAFTON AI 本周公布了其从头训练的 Raon-1 mini 模型的预览版本，该模型的正式版和后续的更大模型即将推出。 Raon-1 mini 采用混合专家架构，导入线性注意力，支持推测解码，整体体量为 30B-A4B。该模型聚焦韩语的同时兼顾英语性能， 以 Apache 2.0 许可开源 。KRAFTON AI 还在官网提供限时免费 API 试用。 KRAFTON AI 表示，预览版的 Raon-1 mini 在编程与智能体任务上与 Me……[截断]",
-    "category": "💰降价/调价",
+    "id": "2026-10-27-01",
+    "title": "Unsloth 发布 MiniMax-M3.1-Flash 量化 GGUF，2-bit 版可在 150GB 内存本地运行",
+    "brief": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 …",
+    "summary": "Unsloth 发布 MiniMax-M3.1-Flash 的量化 GGUF，2-bit 版在缩小 45% 体积的同时保留 91.5% top 1 精度，可在 150GB 内存上本地运行，1-bit 版约 89.9%，4-bit UD-Q4_K_XL 达 98.0%。作者称其为同尺寸最强开源模型之一，并给出 Hugging Face 权重链接与本地运行指南。 · https://aihot.news/items/pkw262qrrom8w7qv6lq7nquxh",
+    "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
     "priority": "lead",
     "heat": 0.0,
-    "sourceName": "IT之家",
-    "sourceUrl": "https://ithome.com/1/017/695.htm"
+    "sourceName": "AIHOT精选(paper)",
+    "sourceUrl": "https://aihot.news/items/pkw262qrrom8w7qv6lq7nquxh"
   },
   {
-    "id": "2026-10-26-02",
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "brief": "The footage looks okay, as long as you're not seeking artistry, inspiration, or …",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "category": "🔥新模型发布",
+    "id": "2026-10-27-02",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "brief": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen sec…",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "category": "📝社区讨论",
     "section": "🗣️ 社区热点",
     "reason": "行业动态，速览即可",
     "priority": "important",
+    "heat": 0.0,
+    "sourceName": "OpenAI Official",
+    "sourceUrl": "https://openai.com/index/greptile-code-review-codex-astra"
+  },
+  {
+    "id": "2026-10-27-03",
+    "title": "Kimi K3.1 Pro 发布：代码超 GPT-6 Astra、开放权重版主动移除网络攻防能力",
+    "brief": "月之暗面发布了 Kimi K3.1 Pro，3 万亿级参数、100 万上下文，K3 系列第一个正式版本。官方给它的定位是\"迄今能力最强的模型\"，代码、3D 创作…",
+    "summary": "月之暗面发布了 Kimi K3.1 Pro，3 万亿级参数、100 万上下文，K3 系列第一个正式版本。官方给它的定位是\"迄今能力最强的模型\"，代码、3D 创作、金融研究和长程 Agent 能力提得最狠，还同步出了个 K3.1 Pro Highspeed——同样智能，输出速度约 2~3 倍，价格 2 倍。 代码这块是硬碰硬的数字。Terminal-Bench 4.0 上它得 65...",
+    "category": "📄学术论文",
+    "section": "🏢 官方发布",
+    "reason": "官方一手消息，可信度较高",
+    "priority": "important",
+    "heat": 0.0,
+    "sourceName": "开源中国OSCHINA",
+    "sourceUrl": "https://oschina.net/news/503221"
+  },
+  {
+    "id": "2026-10-27-04",
+    "title": "腾讯混元同声传译大模型 Hy-SimulMT 开源，响应时间仅 3 秒超人类译员",
+    "brief": "IT之家 10 月 26 日消息，腾讯混元同声传译大模型 Hy-SimulMT 今日发布并开源，具备低时延、高准确率的特点，支持中英语言之间语音到语音实时翻译 …",
+    "summary": "IT之家 10 月 26 日消息，腾讯混元同声传译大模型 Hy-SimulMT 今日发布并开源，具备低时延、高准确率的特点，支持中英语言之间语音到语音实时翻译 —— 说话人的音频可以实时输入到 Hy-SimulMT 模型中，模型会边听边译，实时给出译文和语音，并支持实时音色克隆，可以高度还原说话人声音和语气。该模型在腾讯 Hy 翻译 App 首发， 免费提供服务体验 。 IT之家从官方介绍获悉，低时延是模型的一大亮点，混元同声传译大模型 Hy-SimulMT 的响应时间 实测在 3 秒左右 ，人类专业译员平均水平在 4-5 秒。测评结果显示，该模型的翻译效果超过了市面上主流的开源同传模型，甚至…",
+    "category": "💰降价/调价",
+    "section": "🏢 官方发布",
+    "reason": "官方一手消息，可信度较高",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "IT之家",
+    "sourceUrl": "https://ithome.com/1/018/168.htm"
+  },
+  {
+    "id": "2026-10-27-05",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "brief": "An AI model said it wouldn’t use any tools, then tried to send something to a se…",
+    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "category": "📄学术论文",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
     "heat": 0.0,
     "sourceName": "TechCrunch AI",
-    "sourceUrl": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
+    "sourceUrl": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing"
   },
   {
-    "id": "2026-10-26-03",
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "brief": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://new…",
-    "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 127 # Comments: 151",
+    "id": "2026-10-27-06",
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "brief": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for th…",
+    "summary": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open…",
     "category": "💰降价/调价",
-    "section": "🗣️ 社区热点",
+    "section": "💡 产品应用",
     "reason": "行业动态，速览即可",
-    "priority": "important",
+    "priority": "normal",
     "heat": 0.0,
     "sourceName": "Hacker News社区",
-    "sourceUrl": "https://minimaxir.com/2026/10/cheap-llms"
+    "sourceUrl": "https://github.com/FrigadeHQ/hob"
   },
   {
-    "id": "2026-10-26-04",
+    "id": "2026-10-27-07",
+    "title": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+    "brief": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+    "summary": "30 个 Agent 背后：花椒如何建设可持续演进的企业 AI 能力？",
+    "category": "📝社区讨论",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "InfoQ中文",
+    "sourceUrl": "https://infoq.cn/article/O7lcxqKD2avRPbNoMmtg"
+  },
+  {
+    "id": "2026-10-27-08",
     "title": "Spring AI Alibaba已停更了，Java还有希望吗？",
     "brief": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现…",
     "summary": "前言 最近技术群里有个话题讨论得特别激烈——“Spring AI Alibaba是不是停更了？” 起因很简单。 有人翻了GitHub的Releases页面，发现上一个正式版还是v1.1.2.2，发布于（作者：苏三说技术）",
@@ -55,7 +107,7 @@
     "sourceUrl": "https://juejin.cn/post/7693821701955567670"
   },
   {
-    "id": "2026-10-26-05",
+    "id": "2026-10-27-09",
     "title": "RLAgent: retrieval-augmented LLM agents for code-free RNA region-ligand interaction modeling.",
     "brief": "Health information science and systems",
     "summary": "Health information science and systems",
@@ -68,7 +120,7 @@
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42908869"
   },
   {
-    "id": "2026-10-26-06",
+    "id": "2026-10-27-10",
     "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
     "brief": "The Sociolinguistics of Machine Identity: LLM Personality an…",
     "summary": "The Sociolinguistics of Machine Identity: LLM Personality an…",
@@ -81,20 +133,72 @@
     "sourceUrl": "https://openalex.org/W7164183113"
   },
   {
-    "id": "2026-10-26-07",
-    "title": "猫王音乐版权方起诉 Anthropic，指控其未经授权用 274 首歌曲训练 AI 模型",
-    "brief": "IT之家 10 月 26 日消息，猫王 · 埃尔维斯 · 普雷斯利（Elvis Presley）音乐曲库的持有方正在起诉人工智能企业 Anthropic，指控该…",
-    "summary": "IT之家 10 月 26 日消息，猫王 · 埃尔维斯 · 普雷斯利（Elvis Presley）音乐曲库的持有方正在起诉人工智能企业 Anthropic，指控该公司未经许可使用普雷斯利的歌曲训练 AI 模型。 持有普雷斯利音乐版权与肖像权的授权机构正宗品牌集团（Authentic Brands Group），指控 Anthropic 侵犯了普雷斯利 274 首歌曲的相关权利。这份诉讼于当地时间上周五提交至法院。 尽管 AI 企业此前已经遭到美国唱片业协会以及索尼、环球、华纳唱片等唱片公司提起的版权侵权诉讼，但本案属于由艺人遗产管理方直接针对 AI 开发公司发起的首批重大法律诉讼之一。案……[截…",
+    "id": "2026-10-27-11",
+    "title": "开源中国「AI新生派」走进山东大学软件学院：从技术认知到动手实战，探索 AI 时代开发者成长路径",
+    "brief": "10月23日，开源中国「AI新生派」走进山东大学软件学院。本次活动由开源中国联合学新社主办，Gitee、模力方舟、openKylin 共建，采用“上午主题分享 …",
+    "summary": "10月23日，开源中国「AI新生派」走进山东大学软件学院。本次活动由开源中国联合学新社主办，Gitee、模力方舟、openKylin 共建，采用“上午主题分享 + 下午实操演练”的形式，围绕开源基础知识、AI 应用开发、智能硬件、模型适配及开源操作系统等方向展开，帮助高校学生了解前沿技术发展，并通过实践进一步认识 AI 技术与...",
+    "category": "💻开源项目更新",
+    "section": "🚀 开源生态",
+    "reason": "开源生态动态，可上手/跟进",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "开源中国OSCHINA",
+    "sourceUrl": "https://oschina.net/news/503219"
+  },
+  {
+    "id": "2026-10-27-12",
+    "title": "Benchmarking Data-Free Continual Model Merging for Whole-Slide Image Survival Analysis",
+    "brief": "arXiv:2610.32207v1 Announce Type: new Abstract: Continual survival analysis on w…",
+    "summary": "arXiv:2610.32207v1 Announce Type: new Abstract: Continual survival analysis on whole-slide images (WSIs) requires models to integrate knowledge from sequentially arriving cancer cohorts while preserving previously learned information. Model merging offers a data-free alternative by combining indepen…",
+    "category": "📄学术论文",
+    "section": "📄 最新论文",
+    "reason": "最新预印本，未经同行评审",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "arXiv-cs.CV(官方)",
+    "sourceUrl": "https://arxiv.org/abs/2610.32207"
+  },
+  {
+    "id": "2026-10-27-13",
+    "title": "GPT-6.1 Terra",
+    "brief": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https:…",
+    "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 493 # Comments: 314",
     "category": "📝社区讨论",
-    "section": "🛡️ 政策安全",
-    "reason": "政策/安全/合规相关，值得留意",
+    "section": "💡 产品应用",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "Hacker News社区",
+    "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-terra"
+  },
+  {
+    "id": "2026-10-27-14",
+    "title": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+    "brief": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+    "summary": "模型好选，搜索难做：一个投研Agent的两年开发历程",
+    "category": "📝社区讨论",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "InfoQ中文",
+    "sourceUrl": "https://infoq.cn/article/NrUkJExfuuFOICsjVYbb"
+  },
+  {
+    "id": "2026-10-27-15",
+    "title": "Anthropic 招股书披露：曾因安全顾虑暂停旗舰 AI 模型训练一个多月",
+    "brief": "IT之家 10 月 27 日消息，Anthropic 在当地时间周一公布的 IPO 招股文件中披露，出于安全方面的顾虑，该公司曾暂停下一代旗舰 AI 模型的训练…",
+    "summary": "IT之家 10 月 27 日消息，Anthropic 在当地时间周一公布的 IPO 招股文件中披露，出于安全方面的顾虑，该公司曾暂停下一代旗舰 AI 模型的训练长达一个多月；另外还有四个 AI 智能体在测试期间突破限制，接入了真实的外部计算机系统。 IT之家注意到，这家 Claude 开发企业在文件的风险提示章节中表示，其推迟了一款全新前沿基础模型的预训练工作，目的是强化防护机制，防止模型权重与知识产权被盗。 这份披露内容展现出，研发能力越来越强的 AI 模型会伴随各类安全难题，部分从业者已经发出警示，这类技术未来有可能脱离人类管控。竞争对手 OpenAI 今年早些时候也曾因为安全问题……[截…",
+    "category": "💻开源项目更新",
+    "section": "🏢 官方发布",
+    "reason": "官方一手消息，可信度较高",
     "priority": "normal",
     "heat": 0.0,
     "sourceName": "IT之家",
-    "sourceUrl": "https://ithome.com/1/017/731.htm"
+    "sourceUrl": "https://ithome.com/1/018/201.htm"
   },
   {
-    "id": "2026-10-26-08",
+    "id": "2026-10-27-16",
     "title": "🚀 2026 年 9 月 GitHub 十大热门项目排行榜 🔥",
     "brief": "欢迎来到 2026 年 9 月 GitHub 热门开源项目排行榜！它们共同指向：Agent 正在从「会写很多代码」走向更克制、更可治理、更能操作真实世界与组织协…",
     "summary": "欢迎来到 2026 年 9 月 GitHub 热门开源项目排行榜！它们共同指向：Agent 正在从「会写很多代码」走向更克制、更可治理、更能操作真实世界与组织协作。（作者：一点一木）",
@@ -107,20 +211,20 @@
     "sourceUrl": "https://juejin.cn/post/7693828979246186546"
   },
   {
-    "id": "2026-10-26-09",
-    "title": "Preserving Evidentiary Authority During Corrective Regeneration in Multistage LLM Systems: An Applied Engineering Case",
+    "id": "2026-10-27-17",
+    "title": "Phenotyping Tenosynovial Giant Cell Tumor (TGCT) at Population Scale: Validated Large Language Model (LLM) Extraction From US Real-World Clinical Notes",
     "brief": "Zenodo (CERN European Organization for Nuclear Research)",
     "summary": "Zenodo (CERN European Organization for Nuclear Research)",
     "category": "📄学术论文",
-    "section": "💡 产品应用",
+    "section": "🗣️ 社区热点",
     "reason": "行业动态，速览即可",
     "priority": "normal",
     "heat": 0.0,
     "sourceName": "OpenAlex论文(免费API)",
-    "sourceUrl": "https://openalex.org/W7223093164"
+    "sourceUrl": "https://openalex.org/W7223140094"
   },
   {
-    "id": "2026-10-26-10",
+    "id": "2026-10-27-18",
     "title": "Causality-aware LLM-agent framework for document-level news event extraction with heterogeneous arguments.",
     "brief": "Neural networks : the official journal of the International Neural Network Socie…",
     "summary": "Neural networks : the official journal of the International Neural Network Society",
