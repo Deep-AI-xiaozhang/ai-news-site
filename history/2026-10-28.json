@@ -133,7 +133,7 @@
     "id": "2026-10-28-11",
     "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
     "brief": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycom…",
-    "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 175 # Comments: 97",
+    "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 194 # Comments: 104",
     "category": "📝社区讨论",
     "section": "🗣️ 社区热点",
     "reason": "行业动态，速览即可",
@@ -248,15 +248,15 @@
   },
   {
     "id": "2026-10-28-20",
-    "title": "Here be monsters: What do you still need to know when agents do the work?",
-    "brief": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-kn…",
-    "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 153 # Comments: 85",
-    "category": "📝社区讨论",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
+    "title": "🚀 2026 年 9 月 GitHub 十大热门项目排行榜 🔥",
+    "brief": "欢迎来到 2026 年 9 月 GitHub 热门开源项目排行榜！它们共同指向：Agent 正在从「会写很多代码」走向更克制、更可治理、更能操作真实世界与组织协…",
+    "summary": "欢迎来到 2026 年 9 月 GitHub 热门开源项目排行榜！它们共同指向：Agent 正在从「会写很多代码」走向更克制、更可治理、更能操作真实世界与组织协作。（作者：一点一木）",
+    "category": "💻开源项目更新",
+    "section": "🚀 开源生态",
+    "reason": "开源生态动态，可上手/跟进",
     "priority": "normal",
     "heat": 0.0,
-    "sourceName": "Hacker News社区",
-    "sourceUrl": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"
+    "sourceName": "掘金热榜",
+    "sourceUrl": "https://juejin.cn/post/7693828979246186546"
   }
 ]
