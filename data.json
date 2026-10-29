@@ -1,19 +1,19 @@
 [
   {
-    "dailyBrief": "今日最值得关注：面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型 | 大客户直接打1折、模型四个月降价80%：大模型价格战没有退路 | Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019"
+    "dailyBrief": "今日最值得关注：OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局 | 大客户直接打1折、模型四个月降价80%：大模型价格战没有退路 | Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019"
   },
   {
     "id": "2026-10-29-01",
-    "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
-    "brief": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OC…",
-    "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。 · https://aihot.news/items/zd8g1y3609zl72lnwis70owqt",
+    "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+    "brief": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染…",
+    "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。 · https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
     "priority": "lead",
     "heat": 0.0,
     "sourceName": "AIHOT精选(paper)",
-    "sourceUrl": "https://aihot.news/items/zd8g1y3609zl72lnwis70owqt"
+    "sourceUrl": "https://aihot.news/items/wykbrcxndw1zv255b9y2usj7v"
   },
   {
     "id": "2026-10-29-02",
@@ -147,16 +147,16 @@
   },
   {
     "id": "2026-10-29-12",
-    "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-    "brief": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_COND…",
-    "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 24 # Comments: 16",
-    "category": "💻开源项目更新",
-    "section": "🚀 开源生态",
-    "reason": "开源生态动态，可上手/跟进",
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "brief": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombi…",
+    "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 98 # Comments: 22",
+    "category": "📝社区讨论",
+    "section": "🔧 算力硬件",
+    "reason": "算力/硬件进展，关注落地",
     "priority": "normal",
     "heat": 0.0,
     "sourceName": "Hacker News社区",
-    "sourceUrl": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md"
+    "sourceUrl": "https://divagr.com/blog/qwenputer"
   },
   {
     "id": "2026-10-29-13",
@@ -212,16 +212,16 @@
   },
   {
     "id": "2026-10-29-17",
-    "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-    "brief": "Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2…",
-    "summary": "Google DeepMind 发布 Gemini 4 Carbon，定位为最强前沿模型，主打网络安全与长程智能体能力，在 SEC-bench Pro 88.2%、ExploitGym 54.8%、CWE-bench 71.0% 取得领先，并以 59 分登顶 Artificial Analysis Intelligence Index v5.0。 · https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
+    "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+    "brief": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OC…",
+    "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。 · https://aihot.news/items/zd8g1y3609zl72lnwis70owqt",
     "category": "🔥新模型发布",
     "section": "🏢 官方发布",
     "reason": "官方一手消息，可信度较高",
     "priority": "normal",
     "heat": 0.0,
     "sourceName": "AIHOT精选(paper)",
-    "sourceUrl": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud"
+    "sourceUrl": "https://aihot.news/items/zd8g1y3609zl72lnwis70owqt"
   },
   {
     "id": "2026-10-29-18",
@@ -238,19 +238,6 @@
   },
   {
     "id": "2026-10-29-19",
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "brief": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents…",
-    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-    "category": "📝社区讨论",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
-    "priority": "normal",
-    "heat": 0.0,
-    "sourceName": "OpenAI Official",
-    "sourceUrl": "https://openai.com/index/openai-servicenow-partnership-expansion"
-  },
-  {
-    "id": "2026-10-29-20",
     "title": "IBM CEO 力挺开源权重模型，在本地部署方面极具吸引力、且价格低廉",
     "brief": "IBM CEO Arvind Krishna 在 Q3 财报电话会上算了一笔账。他说开源权重模型现在能做到前沿闭源模型 90% 的效果，只花 10% 到 25%…",
     "summary": "IBM CEO Arvind Krishna 在 Q3 财报电话会上算了一笔账。他说开源权重模型现在能做到前沿闭源模型 90% 的效果，只花 10% 到 25% 的 token 成本。\"这个问题对企业来说很简单：你想要一个只要 10% 价格、能达到最好模型 90% 水平的东西，还是愿意付十倍的钱？\" 他自己回答了：绝大多数企业会选便宜的。他把 2024 到 2026 的...",
@@ -261,5 +248,18 @@
     "heat": 0.0,
     "sourceName": "开源中国OSCHINA",
     "sourceUrl": "https://oschina.net/news/503263/ibm-ceo-says-open-weight-models-good-and-cheap"
+  },
+  {
+    "id": "2026-10-29-20",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "brief": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents…",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "category": "📝社区讨论",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "OpenAI Official",
+    "sourceUrl": "https://openai.com/index/openai-servicenow-partnership-expansion"
   }
 ]
