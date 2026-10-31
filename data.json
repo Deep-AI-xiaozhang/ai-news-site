@@ -82,19 +82,6 @@
   },
   {
     "id": "2026-10-31-07",
-    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "brief": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, …",
-    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "category": "📝社区讨论",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
-    "priority": "normal",
-    "heat": 0.0,
-    "sourceName": "TechCrunch AI",
-    "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text"
-  },
-  {
-    "id": "2026-10-31-08",
     "title": "Claude Code for VS Code 官方扩展被植入后门",
     "brief": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭…",
     "summary": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.1.313，共上线了大约 11 小时，受影响用户估计有 5,000 名，该扩展会试图植入一个持久 SSH 后门。恶意扩展会：收集主机和用户信息：主机名、用户名、操作系统、架构、主目录路径、环境变量名称、工作目录、已配置的 Git 邮箱以及公网 IP。尝试将攻击…",
@@ -107,10 +94,23 @@
     "sourceUrl": "https://solidot.org/story?sid=85756"
   },
   {
+    "id": "2026-10-31-08",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "brief": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, …",
+    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "category": "📝社区讨论",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "TechCrunch AI",
+    "sourceUrl": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text"
+  },
+  {
     "id": "2026-10-31-09",
     "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
     "brief": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.yc…",
-    "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 190 # Comments: 111",
+    "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 198 # Comments: 113",
     "category": "💻开源项目更新",
     "section": "🚀 开源生态",
     "reason": "开源生态动态，可上手/跟进",
@@ -199,19 +199,6 @@
   },
   {
     "id": "2026-10-31-16",
-    "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
-    "brief": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
-    "summary": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
-    "category": "📝社区讨论",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
-    "priority": "normal",
-    "heat": 0.0,
-    "sourceName": "InfoQ中文",
-    "sourceUrl": "https://infoq.cn/article/sCKczimP9lSEl0rgJ7VY"
-  },
-  {
-    "id": "2026-10-31-17",
     "title": "Claude新模型曝光：新Fable，新Opus…",
     "brief": "Claude新模型曝光：新Fable，新Opus…",
     "summary": "Claude新模型曝光：新Fable，新Opus…",
@@ -224,33 +211,20 @@
     "sourceUrl": "https://qbitai.com/2026/10/506674.html"
   },
   {
-    "id": "2026-10-31-18",
-    "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-    "brief": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch…",
-    "summary": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucru Hi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been…",
+    "id": "2026-10-31-17",
+    "title": "DeepSeek Harness 官方桌面端终于有了！",
+    "brief": "DeepSeek Harness 官方的桌面端终于有了！ 桌面版自带运行环境，不需要先装 Node.js，也不用每次开终端启动服务。装好、配好账号或 API K…",
+    "summary": "DeepSeek Harness 官方的桌面端终于有了！ 桌面版自带运行环境，不需要先装 Node.js，也不用每次开终端启动服务。装好、配好账号或 API Key，就能让它读取本地文件、修改代码、整（作者：JavaGuide）",
     "category": "📝社区讨论",
     "section": "💡 产品应用",
     "reason": "行业动态，速览即可",
     "priority": "normal",
     "heat": 0.0,
-    "sourceName": "Hacker News社区",
-    "sourceUrl": "https://sketch.wakeshift.ai/games/q5ucru"
-  },
-  {
-    "id": "2026-10-31-19",
-    "title": "DeepSeek Harness 值得安装的 15 款插件",
-    "brief": "最近 DeepSeek Harness（DSH）火得一塌糊涂，社区插件生态也是爆发式增长,来看看那些值得安装的插件。（作者：程序员晓凡）",
-    "summary": "最近 DeepSeek Harness（DSH）火得一塌糊涂，社区插件生态也是爆发式增长,来看看那些值得安装的插件。（作者：程序员晓凡）",
-    "category": "📝社区讨论",
-    "section": "🗣️ 社区热点",
-    "reason": "行业动态，速览即可",
-    "priority": "normal",
-    "heat": 0.0,
     "sourceName": "掘金热榜",
-    "sourceUrl": "https://juejin.cn/post/7675273747710001206"
+    "sourceUrl": "https://juejin.cn/post/7690512501442625570"
   },
   {
-    "id": "2026-10-31-20",
+    "id": "2026-10-31-18",
     "title": "Phenotyping Tenosynovial Giant Cell Tumor (TGCT) at Population Scale: Validated Large Language Model (LLM) Extraction From US Real-World Clinical Notes",
     "brief": "Zenodo (CERN European Organization for Nuclear Research)",
     "summary": "Zenodo (CERN European Organization for Nuclear Research)",
@@ -261,5 +235,18 @@
     "heat": 0.0,
     "sourceName": "OpenAlex论文(免费API)",
     "sourceUrl": "https://openalex.org/W7223140094"
+  },
+  {
+    "id": "2026-10-31-19",
+    "title": "Causality-aware LLM-agent framework for document-level news event extraction with heterogeneous arguments.",
+    "brief": "Neural networks : the official journal of the International Neural Network Socie…",
+    "summary": "Neural networks : the official journal of the International Neural Network Society",
+    "category": "📄学术论文",
+    "section": "🗣️ 社区热点",
+    "reason": "行业动态，速览即可",
+    "priority": "normal",
+    "heat": 0.0,
+    "sourceName": "EuropePMC论文(免费API)",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42743676"
   }
 ]
